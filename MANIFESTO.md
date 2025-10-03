@@ -1,5 +1,4 @@
 # SOVEREIGN – The Manifesto for Digital Self‑Determination
-> Published — 02 Oct 2025
 
 ### Preamble
 
