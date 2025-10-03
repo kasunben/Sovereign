@@ -1,4 +1,4 @@
-# SOVEREIGN – A Manifesto for Digital Self‑Determination
+# SOVEREIGN – The Manifesto for Digital Self‑Determination
 > Published — 02 Oct 2025
 
 ### Preamble
@@ -38,12 +38,12 @@ Self-determination means building tools that empower communities rather than ext
 
 ### Principles of Sovereignty
 
-1.	**Autonomy over dependence** — Tools must serve people, not the other way around.
-2.	**Openness over enclosure** — Knowledge and code must remain accessible, forkable, and free to evolve.
-3.	**Privacy over surveillance** — What we create, share, or store must not be weaponized against us.
-4.	**Community over monopoly** — Technology should strengthen collaboration, not consolidate control.
-5.	**Resilience over fragility** — Decentralization, interoperability, and redundancy must replace brittle centralization.
-6.	**Usability over obscurity** — Alternatives must be accessible, intuitive, and dignified for all people, not just the technically skilled.
+1.  **Autonomy over dependence** — Tools must serve people, not the other way around.
+2.  **Openness over enclosure** — Knowledge and code must remain accessible, forkable, and free to evolve.
+3.  **Privacy over surveillance** — What we create, share, or store must not be weaponized against us.
+4.  **Community over monopoly** — Technology should strengthen collaboration, not consolidate control.
+5.  **Resilience over fragility** — Decentralization, interoperability, and redundancy must replace brittle centralization.
+6.  **Usability over obscurity** — Alternatives must be accessible, intuitive, and dignified for all people, not just the technically skilled.
 
 ### Toward a New Digital Commons
 
@@ -55,9 +55,14 @@ The internet was once imagined as a space of liberation. It can be again.
 
 This is our manifesto. This is our stand.
 
---
+Kasun Benthara<br>
+Oct 02, 2025, Berlin.
+
+<hr>
 
 <sup>[1]</sup> Aaron Swartz, Guerilla Open Access Manifesto, July 2008, Eremo, Italy.
 This line is reproduced here in tribute to Aaron Swartz — whose vision for a freer, more open digital world continues to inspire this manifesto.
 
 <sup>[2]</sup> The term "Technofeudalism" has been popularized in critical political economy, notably by Yanis Varoufakis (Technofeudalism: What Killed Capitalism, 2023), and has also appeared in earlier academic and activist debates to describe the monopolistic, rent-seeking dynamics of Big Tech platforms.
+
+
